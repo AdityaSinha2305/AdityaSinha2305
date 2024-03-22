@@ -39,6 +39,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSinha2305&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdityaSinha2305&color=brightgreen)
 
 
