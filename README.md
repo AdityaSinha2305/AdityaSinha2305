@@ -8,6 +8,14 @@
 
 <br>
 
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSinha2305&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaSinha2305&color=brightgreen)
+
+<br/>
+
 ## Skills
 
 - Programming Languages:
@@ -28,16 +36,10 @@
 
 ## Connect with Me
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/aditya-sinha-9b59a61a8/
-
-- ![Website](https://img.shields.io/badge/Website-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)  https://adityasinha2305.github.io/
-
-
-<br/>
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSinha2305&layout=compact&theme=radical)
+<p>📧 Email: <a href="mailto:sinhaaditya43@gmail.com" target="_blank">sinhaaditya43@gmail.com</a></p>
+<a href="https://www.linkedin.com/in/aditya-sinha-9b59a61a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+<a href="https://adityasinha2305.github.io/"><img src="https://img.shields.io/badge/Website-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" target="_blank"></a>
+    
 
 
 
