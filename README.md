@@ -3,7 +3,7 @@
 
 ## About Me
 
-🚀 A code enthusiast, Python wizard 🐍, and Frontend maestro 🎨. Constantly fueled by curiosity, I thrive on the exhilarating journey of learning and creating. Currently, I'm sculpting dreams into reality by writing Python code for system resource monitoring and Prometheus integration, crafting the perfect recipe for proactive alerts and seamless operations.
+🚀 A code enthusiast, Python wizard 🐍, and Frontend developer 🎨. Constantly fueled by curiosity, I thrive on the exhilarating journey of learning and creating. Currently, I'm sculpting dreams into reality by writing Python code for system resource monitoring and Prometheus integration, crafting the perfect recipe for proactive alerts and seamless operations.
 
 
 <br>
