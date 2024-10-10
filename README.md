@@ -8,13 +8,18 @@
 
 <br>
 
-## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSinha2305&layout=compact&theme=radical)
+## Connect with Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdityaSinha2305&color=brightgreen)
+<p>📧 Email: <a href="mailto:sinhaaditya43@gmail.com" target="_blank">sinhaaditya43@gmail.com</a></p>
+<a href="https://www.linkedin.com/in/aditya-sinha-9b59a61a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+<a href="https://adityasinha2305.github.io/"><img src="https://img.shields.io/badge/Website-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" target="_blank"></a>
+<a href="https://linktr.ee/aditya_sinha"><img src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree" target="_blank"></a>
 
-<br/>
+
+<br>
+<br>
+
 
 ## Skills
 
@@ -34,11 +39,33 @@
 
 <br>
 
-## Connect with Me
 
-<p>📧 Email: <a href="mailto:sinhaaditya43@gmail.com" target="_blank">sinhaaditya43@gmail.com</a></p>
-<a href="https://www.linkedin.com/in/aditya-sinha-9b59a61a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
-<a href="https://adityasinha2305.github.io/"><img src="https://img.shields.io/badge/Website-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" target="_blank"></a>
+
+## GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaSinha2305&color=brightgreen)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSinha2305&layout=compact&theme=radical)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=AdityaSinha2305&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSinha2305&theme=radical&hide_border=false)
+
+<br/>
+
+
+
+## Github Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AdityaSinha2305&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) 
+
+<br>
     
 
 
