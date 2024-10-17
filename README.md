@@ -60,7 +60,6 @@
 <br/>
 
 
-
 ## Github Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=AdityaSinha2305&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) 
@@ -68,4 +67,4 @@
 <br>
     
 
-
+[![An image of @sinhaaditya43's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sinhaaditya43)](https://holopin.io/@sinhaaditya43)
