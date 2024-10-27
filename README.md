@@ -14,7 +14,7 @@
 <p>📧 Email: <a href="mailto:sinhaaditya43@gmail.com" target="_blank">sinhaaditya43@gmail.com</a></p>
 <a href="https://www.linkedin.com/in/aditya-sinha-9b59a61a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
 <a href="https://adityasinha2305.github.io/"><img src="https://img.shields.io/badge/Website-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" target="_blank"></a>
-<a href="https://linktr.ee/aditya_sinha"><img src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree" target="_blank"></a>
+<!-- <a href="https://linktr.ee/aditya_sinha"><img src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree" target="_blank"></a> -->
 
 
 <br>
