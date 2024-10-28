@@ -51,7 +51,7 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=AdityaSinha2305&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=AdityaSinha2305&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 
 <br>
 
